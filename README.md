@@ -7,6 +7,7 @@ This is a script that scrapes websites like https://immobilienscout24.de and htt
 ## functionality
 #### general
 - [ ] modularize code
+- [ ] add logging
 
 #### ImmobilienScout24
 - [x] scrape exposés
