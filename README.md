@@ -2,9 +2,12 @@
 inspired by https://statisquo.de/2018/06/11/immobilienscout24-mining-2-0-der-web-scraper-fuer-haeuser/
 
 ## about
-This is a script that scrapes websites like https://immobilienscout24.de and https://immowelt.de for exposés and saves them as a csv file.
+This is a script that scrapes websites like https://immobilienscout24.de and https://immowelt.de for exposés and saves the data in machine readable form.
 
 ## functionality
+#### general
+- [ ] modularize code
+
 #### ImmobilienScout24
 - [x] scrape exposés
 - [x] scrape asynchronously
